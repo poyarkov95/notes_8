@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pap8ymccRhI=",
+  "success": true,
+  "projectFilePath": "/Users/andrey/RiderProjects/NoteProject/Database/Postgres/Postgres.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrey/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/npgsql/8.0.5/npgsql.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

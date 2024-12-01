@@ -1,0 +1,6 @@
+﻿services:
+  note:
+    image: note
+    build:
+      context: .
+      dockerfile: Note/Dockerfile

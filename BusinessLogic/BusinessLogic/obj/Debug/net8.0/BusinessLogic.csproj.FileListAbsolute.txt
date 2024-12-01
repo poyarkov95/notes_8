@@ -1,0 +1,15 @@
+/Users/andrey/RiderProjects/NoteProject/BusinessLogic/BusinessLogic/bin/Debug/net8.0/BusinessLogic.deps.json
+/Users/andrey/RiderProjects/NoteProject/BusinessLogic/BusinessLogic/bin/Debug/net8.0/BusinessLogic.dll
+/Users/andrey/RiderProjects/NoteProject/BusinessLogic/BusinessLogic/bin/Debug/net8.0/BusinessLogic.pdb
+/Users/andrey/RiderProjects/NoteProject/BusinessLogic/BusinessLogic/bin/Debug/net8.0/Postgres.dll
+/Users/andrey/RiderProjects/NoteProject/BusinessLogic/BusinessLogic/bin/Debug/net8.0/Postgres.pdb
+/Users/andrey/RiderProjects/NoteProject/BusinessLogic/BusinessLogic/obj/Debug/net8.0/BusinessLogic.csproj.AssemblyReference.cache
+/Users/andrey/RiderProjects/NoteProject/BusinessLogic/BusinessLogic/obj/Debug/net8.0/BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrey/RiderProjects/NoteProject/BusinessLogic/BusinessLogic/obj/Debug/net8.0/BusinessLogic.AssemblyInfoInputs.cache
+/Users/andrey/RiderProjects/NoteProject/BusinessLogic/BusinessLogic/obj/Debug/net8.0/BusinessLogic.AssemblyInfo.cs
+/Users/andrey/RiderProjects/NoteProject/BusinessLogic/BusinessLogic/obj/Debug/net8.0/BusinessLogic.csproj.CoreCompileInputs.cache
+/Users/andrey/RiderProjects/NoteProject/BusinessLogic/BusinessLogic/obj/Debug/net8.0/Business.CF5D6E35.Up2Date
+/Users/andrey/RiderProjects/NoteProject/BusinessLogic/BusinessLogic/obj/Debug/net8.0/BusinessLogic.dll
+/Users/andrey/RiderProjects/NoteProject/BusinessLogic/BusinessLogic/obj/Debug/net8.0/refint/BusinessLogic.dll
+/Users/andrey/RiderProjects/NoteProject/BusinessLogic/BusinessLogic/obj/Debug/net8.0/BusinessLogic.pdb
+/Users/andrey/RiderProjects/NoteProject/BusinessLogic/BusinessLogic/obj/Debug/net8.0/ref/BusinessLogic.dll

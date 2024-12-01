@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteApi", "NoteApi\NoteApi.csproj", "{57CF8F4A-8311-4D8F-9B06-634231F4F6DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EC48B3E6-88AD-4B07-9312-7DE1F9FCB1A2}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLogic", "BusinessLogic", "{5A438C50-413B-4D9E-8715-6D52C8D4B016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "..\BusinessLogic\BusinessLogic\BusinessLogic.csproj", "{799A62F7-7C1B-413B-8B07-733B8E7A8529}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{B47C8A19-FA2D-49D5-9F0B-DFDEA1A1ED85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Postgres", "..\Database\Postgres\Postgres.csproj", "{AFE4F272-AAF7-403B-9FCA-67AEA1DE6842}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Migrator", "Migrator", "{7299DFC2-81EB-46DD-8E00-C517EE19FC74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgresMigrator", "..\Migrator\PostgresMigrator\PostgresMigrator.csproj", "{34CE0230-86DB-4026-B7B0-1C58A25FD64F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57CF8F4A-8311-4D8F-9B06-634231F4F6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CF8F4A-8311-4D8F-9B06-634231F4F6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CF8F4A-8311-4D8F-9B06-634231F4F6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CF8F4A-8311-4D8F-9B06-634231F4F6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799A62F7-7C1B-413B-8B07-733B8E7A8529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799A62F7-7C1B-413B-8B07-733B8E7A8529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799A62F7-7C1B-413B-8B07-733B8E7A8529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799A62F7-7C1B-413B-8B07-733B8E7A8529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE4F272-AAF7-403B-9FCA-67AEA1DE6842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE4F272-AAF7-403B-9FCA-67AEA1DE6842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE4F272-AAF7-403B-9FCA-67AEA1DE6842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE4F272-AAF7-403B-9FCA-67AEA1DE6842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34CE0230-86DB-4026-B7B0-1C58A25FD64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CE0230-86DB-4026-B7B0-1C58A25FD64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34CE0230-86DB-4026-B7B0-1C58A25FD64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CE0230-86DB-4026-B7B0-1C58A25FD64F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{799A62F7-7C1B-413B-8B07-733B8E7A8529} = {5A438C50-413B-4D9E-8715-6D52C8D4B016}
+		{AFE4F272-AAF7-403B-9FCA-67AEA1DE6842} = {B47C8A19-FA2D-49D5-9F0B-DFDEA1A1ED85}
+		{34CE0230-86DB-4026-B7B0-1C58A25FD64F} = {7299DFC2-81EB-46DD-8E00-C517EE19FC74}
+	EndGlobalSection
+EndGlobal
