@@ -6,6 +6,6 @@ public class NotesModelProfile : AutoMapper.Profile
 {
     public NotesModelProfile()
     {
-        CreateMap<Note, NoteModel>().ReverseMap();
+        CreateMap<Note, NoteModel>().ReverseMap(); 
     }
 }
